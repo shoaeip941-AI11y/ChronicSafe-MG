@@ -1,4 +1,0 @@
-// TinyML model for ChronicSafe-MG
-// Size: 98 kB (quantized INT8)
-// Input: [HRV, SpO2, Temp] × 300 samples
-// Output: ADR risk score (0-1)
