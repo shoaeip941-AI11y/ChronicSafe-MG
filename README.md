@@ -1,5 +1,5 @@
 # ChronicSafe-MG
-Real-time AI pharmacovigilance for Arbaeen using TinyML &amp; federated learning
+Real-time AI pharmacovigilance for Arbaeen using TinyML & federated learning
 
 **Real-time, Individualized ADR Detection & Prediction in Mass Gatherings**  
 *Extension of ChronicSafe® (deployed since 2022, n=1,840 patients)*
@@ -7,7 +7,7 @@ Real-time AI pharmacovigilance for Arbaeen using TinyML &amp; federated learning
 ---
 
 ## Edge Model (TinyML)
-- `anomaly_detector.tflite` → **98 kB quantized model**
+- [`anomaly_detector.tflite`](anomaly_detector.tflite) → **98 kB quantized model**
 - Input: 5-min HRV, SpO₂, skin temp, activity
 - Inference: **42 ms** on Snapdragon 410
 - Anomaly: Mahalanobis distance from personalized baseline
@@ -19,7 +19,7 @@ Real-time AI pharmacovigilance for Arbaeen using TinyML &amp; federated learning
 - Privacy: **ε = 0.8** differential privacy
 
 ## SHAP Analysis
-- `shap_qt_prolongation.png` → Top contributors:  
+- [`shap_qt_prolongation.png`](shap_qt_prolongation.png) → Top contributors:  
   `QT instability`, `HRV suppression`, `NSAID + dehydration`
 
 ## Model Performance
