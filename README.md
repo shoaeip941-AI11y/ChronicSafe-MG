@@ -42,6 +42,6 @@ Real-time AI pharmacovigilance for Arbaeen using TinyML & federated learning
 ## Links
 - Paper: [AI in Mass Gatherings - Arbaeen 2025](https://example.com/paper)
 - App: ChronicSafe® (Google Play | App Store)
-- Contact: parisa.shoae@yahoo.com
+- Contact: shoaeip941@gmail.com
 
 ---
