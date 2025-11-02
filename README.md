@@ -52,7 +52,7 @@
 ---
 
 ## Live Demo (Arbaeen 2025 RCT)
-- **IRCT20240810059231N1**  
+- **IRCT2025**************  
 - **n = 10,000 pilgrims**  
 - **Primary endpoint**: ADR-related hospitalizations  
 - **Secondary**: Time-to-intervention, AKI incidence
@@ -60,8 +60,8 @@
 ---
 
 ## Links
-- Paper: [AI in Mass Gatherings - Arbaeen 2025](https://example.com/paper)  
-- App: ChronicSafe® (Google Play | App Store)  
+- Paper: [AI in Mass Gatherings - Arbaeen 2025].  
+- App: ChronicSafe® (will add to Google Play | App Store)  
 - Contact: **shoaeip941@gmail.com**
 
 ---
