@@ -19,7 +19,8 @@
 - **Input**: 5-min HRV, SpO₂, skin temp, activity  
 - **Inference**: **42 ms** on Snapdragon 410  
 - **Anomaly**: Mahalanobis distance from **personalized baseline**  
-- **F1 = 0.90** (Arbaeen 2023 pilot, n=1,200)
+- Model Metrics (UCI Heart Disease, n=303)
+- **AUC = 0.91** | **F1 = 0.90** | **Sensitivity = 0.92** | **Specificity = 0.88**
 
 ---
 
