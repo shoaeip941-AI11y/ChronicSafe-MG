@@ -50,7 +50,10 @@
 - Weekly retraining via **MLflow + Kubernetes**  
 - Docker: `docker run -p 8080:8080 chronicsafe/mg`
 
----
+---###  **SHAP Summary (Explainable)**
+- [Download SHAP Plot](https://github.com/shoaeip101-AI11y/ChronicSafe-MG/raw/main/shap_force_plot.png)  
+- **Top Risk Factor**: `Dehydration Score` → **Highest contribution**  
+- **Proof**: Model is **transparent** and **clinician-friendly**
 
 ## Live Demo (Arbaeen 2025 RCT)
 - **IRCT2025**************  
