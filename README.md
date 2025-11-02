@@ -22,6 +22,9 @@ Real-time AI pharmacovigilance for Arbaeen using TinyML &amp; federated learning
 - `shap_qt_prolongation.png` → Top contributors:  
   `QT instability`, `HRV suppression`, `NSAID + dehydration`
 
+## Model Performance
+- [`auc_curve.png`](auc_curve.png) → **AUC 0.91** vs random (AUC 0.5)
+
 ## MLOps Pipeline
 - **XGBoost-Survival** + **TCN ensemble** → **AUC 0.91**
 - Weekly retraining via **MLflow + Kubernetes**
